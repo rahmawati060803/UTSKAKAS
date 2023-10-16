@@ -1,0 +1,4 @@
+nama : rahmawati
+nim : 60900121007
+kelas : a
+uts : kakas
